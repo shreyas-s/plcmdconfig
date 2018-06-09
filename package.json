@@ -16,7 +16,7 @@
     "url": "https://github.com/shreyas-s/plcmdlink/issues"
   },
   "bin": {
-    "mylink": "./bin/cmdconfig.js"
+    "mycmdconfig": "./bin/cmdconfig.js"
   },
   "homepage": "https://github.com/shreyas-s/plcmdlink#readme"
 }
