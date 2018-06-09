@@ -1,0 +1,22 @@
+{
+  "name": "plcmdconfig",
+  "version": "1.0.0",
+  "description": "To config any command line code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyas-s/plcmdlink.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreyas-s/plcmdlink/issues"
+  },
+  "bin": {
+    "mylink": "./bin/cmdconfig.js"
+  },
+  "homepage": "https://github.com/shreyas-s/plcmdlink#readme"
+}
